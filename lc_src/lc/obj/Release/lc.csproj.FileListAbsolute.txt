@@ -1,0 +1,7 @@
+C:\Users\armen\Desktop\lc_src\lc\obj\Release\lc.csproj.AssemblyReference.cache
+C:\Users\armen\Desktop\lc_src\lc\obj\Release\lc.aR3nbf8dQp2feLmk31.lSfgApatkdxsVcGcrktoFd.resources
+C:\Users\armen\Desktop\lc_src\lc\obj\Release\lc.ns0.GForm0.resources
+C:\Users\armen\Desktop\lc_src\lc\obj\Release\ns0.gui.resources
+C:\Users\armen\Desktop\lc_src\lc\obj\Release\ns0.main.resources
+C:\Users\armen\Desktop\lc_src\lc\obj\Release\lc.csproj.GenerateResource.cache
+C:\Users\armen\Desktop\lc_src\lc\obj\Release\lc.csproj.CoreCompileInputs.cache
